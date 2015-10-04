@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="source"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/cupi2Collections.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="lib/miniDBC.jar"/>
+	<classpathentry kind="lib" path="lib/oraculo.jar"/>
+	<classpathentry kind="lib" path="lib/oraculoDriver.jar"/>
+	<classpathentry kind="lib" path="lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xml-apis.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/Users/Andres/Documents/Programacion/ojdbc6.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
